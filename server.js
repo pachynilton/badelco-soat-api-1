@@ -18,7 +18,7 @@ app.use(helmet({
             styleSrc: ["'self'", "'unsafe-inline'"],
             scriptSrc: ["'self'", "'unsafe-inline'"],
             imgSrc: ["'self'", "data:", "https:"],
-            connectSrc: ["'self'", "https://dev.same.com.co", "https://badelco-soat-api-production.up.railway.app"]
+            connectSrc: ["'self'", "https://dev.same.com.co", "https://pachynilton/badelco-soat-api-1.up.railway.app"]
         }
     }
 }));
